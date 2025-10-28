@@ -56,5 +56,5 @@ It brings together critical data points like **inventory levels**, **order fulfi
 ## 🧑‍💻 Author
 
 **Varshith Chilagani**  
-🔗 [LinkedIn](https://linkedin.com/in/varshithchilagani)
+
 
